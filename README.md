@@ -1,0 +1,2 @@
+# praktice.gitting
+index.php
